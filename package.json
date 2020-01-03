@@ -1,7 +1,7 @@
 {
   "name": "@js1314/exceljs",
   "version": "1.0.0",
-  "description": "exceljs",
+  "description": "封装了一些操作EXCEL的常用方法（基于XLSX）",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
