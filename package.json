@@ -1,0 +1,25 @@
+{
+  "name": "@js1314/exceljs",
+  "version": "1.0.0",
+  "description": "exceljs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "xlsx": "^0.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js1314/exceljs.git"
+  },
+  "keywords": [
+    "exceljs"
+  ],
+  "author": "zyl <733433@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js1314/exceljs/issues"
+  },
+  "homepage": "https://github.com/js1314/exceljs#readme"
+}
